@@ -1,0 +1,1 @@
+const API_PRODUCT = "https://nhandoi.net/wp-json/wc/v3/products";

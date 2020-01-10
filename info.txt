@@ -1,0 +1,28 @@
+Tran gia
+079.660.8888
+13.000.000
+
+key store
+trangia
+1236655226
+1236655226
+
+ Create a keystore  (key.jks in folder terminal)
+ keytool -genkey -v -keystore key.jks -alias <alias_name> -keyalg RSA -keysize 2048 -validity 20000
+
+
+
+/////////////////////////////////////////////
+ <app dir>/android/key.properties
+
+ storePassword=1236655226
+ keyPassword=123456
+ keyAlias=dr2048
+ storeFile=/home/hoangdr/workplace/flutter/dr2048/key.jks
+ /////////////////////////////////////////////
+
+flutter build appbundle
+ flutter build apk --split-per-abi
+
+ email: trangia.gsm@gmail.com
+ 0974848979

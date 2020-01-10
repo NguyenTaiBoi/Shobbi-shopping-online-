@@ -1,0 +1,4 @@
+class Fix {
+  String manufacturer;
+
+}
